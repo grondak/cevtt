@@ -20,7 +20,7 @@ This code base is brand new. It doesn't even work!
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for info on contributing to Cucumber.js.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for info on contributing to cevtt.
 
 ## Code of Conduct
 
