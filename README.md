@@ -24,7 +24,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for info on contributing to Cucumber.js.
 
 ## Code of Conduct
 
-Everyone interacting in this codebase and issue tracker is expected to follow the cevtt [code of conduct](CODE_OF_CONDUCT.md).
+Everyone interacting in this codebase and issue tracker is expected to follow the cevtt [code of conduct](CODE OF CONDUCT.md).
 
 ## Install
+
+No installable code yet.
+Get Docker.
 
