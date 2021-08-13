@@ -12,8 +12,8 @@ Multi-player, multi-game
 * The playing field for a game is scalable and zoomable to a given point
 * Ships' sensors may see less information than the server knows about another ship,
 * and that information is hidden from the client so a crafty user cannot cheat
-* The game understands vector physics
-* The game has an advance-able clock
+* Future: The game adds vector movement to the Cepheus Engine combat systam -- and understands vector physics
+* The game has an advance-able clock (1000 seconds by the engine)
 
 ## Help & Support
 This code base is brand new. It doesn't even work!
