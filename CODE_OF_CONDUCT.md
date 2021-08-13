@@ -68,6 +68,7 @@ The current moderator of the cevtt community are:
 
 We’re grateful to these references for providing us with ideas and inspiration for this document:
 
+- https://github.com/cucumber/common/blob/main/CODE_OF_CONDUCT.md
 - http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/
 - https://www.rust-lang.org/conduct.html
 - https://www.djangoproject.com/conduct/
