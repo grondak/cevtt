@@ -1,4 +1,5 @@
 Feature: User friends
+
     To play games with my buddies
     As a human
     I want to identify friends
