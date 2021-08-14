@@ -7,4 +7,6 @@ Feature: User Logins
     Given a running site and a new human
     When I create an account
     Then I should be able to know I am logged in
+    And I should have a unique user name
     And the site admin should show me as a user
+    
