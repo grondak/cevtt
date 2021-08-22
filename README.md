@@ -2,7 +2,7 @@
 
 cevtt is a browser-based implementation of [The Cepheus Engine](https://www.orffenspace.com/cepheus-srd/introduction.html) ruleset's [space combat system](https://www.orffenspace.com/cepheus-srd/space-combat.html)
 
-Cepheus Engine and Samardan Press are the trademarks of Jason "Flynn" Kemp," and that you are not affiliated with Jason "Flynn" Kemp or Samardan Press™
+Cepheus Engine and Samardan Press are the trademarks of Jason "Flynn" Kemp, this product is not affiliated with Jason "Flynn" Kemp or Samardan Press™.
 
 This product is for use with the Cepheus Engine Core Rules.
 ## Principles & Features
